@@ -1,2 +1,2 @@
-# minor-1
-minor project on heart diseases pediction
+# Machine Learning Project
+ML project on heart diseases pediction using python
